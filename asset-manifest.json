@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AdvWebFramefin/static/css/main.b8a55967.css",
+    "main.js": "/AdvWebFramefin/static/js/main.937fcb18.js",
+    "index.html": "/AdvWebFramefin/index.html",
+    "main.b8a55967.css.map": "/AdvWebFramefin/static/css/main.b8a55967.css.map",
+    "main.937fcb18.js.map": "/AdvWebFramefin/static/js/main.937fcb18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8a55967.css",
+    "static/js/main.937fcb18.js"
+  ]
+}
